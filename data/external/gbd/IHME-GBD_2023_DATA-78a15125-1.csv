@@ -1,0 +1,9 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,53,5q0,53615,Azad Jammu & Kashmir,3,Both,1,<5 years,8,Probability of death,2019,0.046708928143394265,0.05069147046141303,0.04290186110057577
+1,All Population,53,5q0,53616,Balochistan,3,Both,1,<5 years,8,Probability of death,2019,0.04835370987343568,0.05231431231049346,0.04478730287061902
+1,All Population,53,5q0,53617,Gilgit-Baltistan,3,Both,1,<5 years,8,Probability of death,2019,0.0476777990619058,0.051532952705905986,0.043638143890635056
+1,All Population,53,5q0,53618,Islamabad Capital Territory,3,Both,1,<5 years,8,Probability of death,2019,0.037290452895883355,0.04048011413760413,0.034176738998216105
+1,All Population,53,5q0,53619,Khyber Pakhtunkhwa,3,Both,1,<5 years,8,Probability of death,2019,0.046991714273685974,0.05060962740527232,0.043584746954239834
+1,All Population,53,5q0,53620,Punjab,3,Both,1,<5 years,8,Probability of death,2019,0.06609785164192361,0.06978869670656034,0.06255775444301653
+1,All Population,53,5q0,53621,Sindh,3,Both,1,<5 years,8,Probability of death,2019,0.058344236749675225,0.06246051867550692,0.054437549552437486
+1,All Population,53,5q0,165,Pakistan,3,Both,1,<5 years,8,Probability of death,2019,0.05882257643494026,0.06171365173238093,0.05591841244902474

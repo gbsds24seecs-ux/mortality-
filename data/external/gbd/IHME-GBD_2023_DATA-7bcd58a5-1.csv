@@ -1,0 +1,17 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,53,5q0,165,Pakistan,3,Both,1,<5 years,8,Probability of death,2017,0.06321283894027761,0.065941571793832,0.06018565756396946
+1,All Population,53,5q0,165,Pakistan,3,Both,1,<5 years,8,Probability of death,2018,0.06092092986301224,0.06378972830683782,0.058043642312177096
+1,All Population,53,5q0,53615,Azad Jammu & Kashmir,3,Both,1,<5 years,8,Probability of death,2017,0.050109165491778906,0.05409786275051744,0.046247487154436995
+1,All Population,53,5q0,53615,Azad Jammu & Kashmir,3,Both,1,<5 years,8,Probability of death,2018,0.04839613343263826,0.052247500863835346,0.04476254404454653
+1,All Population,53,5q0,53616,Balochistan,3,Both,1,<5 years,8,Probability of death,2017,0.05142987804539251,0.05531743923720822,0.04793966937322881
+1,All Population,53,5q0,53616,Balochistan,3,Both,1,<5 years,8,Probability of death,2018,0.05001242350774161,0.054012907044362346,0.04641839791590989
+1,All Population,53,5q0,53617,Gilgit-Baltistan,3,Both,1,<5 years,8,Probability of death,2017,0.05071809343205919,0.05463641592403719,0.0470358015411015
+1,All Population,53,5q0,53617,Gilgit-Baltistan,3,Both,1,<5 years,8,Probability of death,2018,0.04912311009130261,0.05282568157402587,0.04548824774149402
+1,All Population,53,5q0,53618,Islamabad Capital Territory,3,Both,1,<5 years,8,Probability of death,2017,0.039719660488883445,0.043176762527168185,0.03686443902653816
+1,All Population,53,5q0,53618,Islamabad Capital Territory,3,Both,1,<5 years,8,Probability of death,2018,0.038335039905295756,0.04169837115032528,0.03533996541810633
+1,All Population,53,5q0,53619,Khyber Pakhtunkhwa,3,Both,1,<5 years,8,Probability of death,2017,0.05071943450208587,0.05423511166200253,0.047232946875988
+1,All Population,53,5q0,53619,Khyber Pakhtunkhwa,3,Both,1,<5 years,8,Probability of death,2018,0.048683115988189814,0.052546787732512715,0.0454075357126387
+1,All Population,53,5q0,53620,Punjab,3,Both,1,<5 years,8,Probability of death,2017,0.07086536465449998,0.07449074414318019,0.06719233622667009
+1,All Population,53,5q0,53620,Punjab,3,Both,1,<5 years,8,Probability of death,2018,0.06835446129203362,0.07204465084142139,0.06465075785647424
+1,All Population,53,5q0,53621,Sindh,3,Both,1,<5 years,8,Probability of death,2017,0.06291770388198135,0.06723476246972827,0.05870418711969557
+1,All Population,53,5q0,53621,Sindh,3,Both,1,<5 years,8,Probability of death,2018,0.06058070540759979,0.06478893263427461,0.05668678834198802
